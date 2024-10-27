@@ -1,11 +1,17 @@
 # qb-inventory
 
-#installation
+## Installation
+
+JUST A DRAG AND DROP FILE 
+
+```bash
 just delete your old qb-inventory
 and download un zip my qb-inventory_redesign
 rename it to qb-inventory and put into your resource [qb]
 here you go restart your server and enjoy 😉
 
+```
+    
 If you like my inventory edit then support me here - buymeacoffee.com/rajashutosa
 
 ## Dependencies
